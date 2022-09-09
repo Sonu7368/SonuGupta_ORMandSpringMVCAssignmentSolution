@@ -7,4 +7,4 @@ Assignment_3_CRM_Solution directory contains app implementation. (JAVA Files, js
 
 SQL Queries has the queries required for initial setup on the database.
 
-[Drive link to Application Demo Video]([url](https://drive.google.com/file/d/1CICcU_sgVube4O0ib-65tfyi4Z18NaOv/view)
+[Drive link to Application Demo Video](https://drive.google.com/file/d/1CICcU_sgVube4O0ib-65tfyi4Z18NaOv/view?usp=sharing)
