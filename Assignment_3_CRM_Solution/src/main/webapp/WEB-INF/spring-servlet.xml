@@ -36,6 +36,10 @@
         <property name="username" value="root" />
         <property name="password" value="password" /> 
 
+        <!-- these are connection pool properties -->
+        <property name="maxIdle" value="-1" />
+        <property name="maxTotal" value="-1" />
+        <property name="maxWaitMillis" value="30000" />
 	</bean>  
 	
     <!-- Step 2: Setup Hibernate session factory -->
